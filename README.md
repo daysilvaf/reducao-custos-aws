@@ -1,1 +1,1 @@
-# reducao-custos-aws
+Atividade de desafio de projeto da Formação AWS Cloud Practitioner Certification da DIO onde foi implementado da plataforma AWS em uma farmácia fictícia que dará seus primeiros passos na computação na nuvem.
